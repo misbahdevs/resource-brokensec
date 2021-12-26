@@ -1,0 +1,16 @@
+      @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");  
+      /* import font dari google */
+      .container {
+        width: 50%; /* mengatur width container 50% */
+        margin: 0 auto; /* mengatur container ditengah */
+        font-family: "Poppins", sans-serif; /* mengatur type font jadi poppins */
+      }
+      .judul {
+        color: salmon; /* mengatur text dengan class judul berwarna salmon */
+      }
+      .paragrap1 {
+        color: green; /* mengatur text dengan class paragrap1 berwarna hijau */
+      }
+      .paragrap2 {
+        color: blue; /* mengatur text dengan class paragrap2 berwarna biru */
+      }
