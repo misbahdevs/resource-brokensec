@@ -1,0 +1,1 @@
+sudo code /directory-to-open --user-data-dir='.' --no-sandbox
